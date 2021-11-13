@@ -1,0 +1,22 @@
+C:\Users\PC.DESKTOP-LHETLS5\Desktop\Chart\bin\Debug\Chart.exe.config
+C:\Users\PC.DESKTOP-LHETLS5\Desktop\Chart\bin\Debug\Chart.exe
+C:\Users\PC.DESKTOP-LHETLS5\Desktop\Chart\bin\Debug\Chart.pdb
+C:\Users\PC.DESKTOP-LHETLS5\Desktop\Chart\obj\Debug\Chart.csprojAssemblyReference.cache
+C:\Users\PC.DESKTOP-LHETLS5\Desktop\Chart\obj\Debug\Chart.Properties.Resources.resources
+C:\Users\PC.DESKTOP-LHETLS5\Desktop\Chart\obj\Debug\Chart.csproj.GenerateResource.cache
+C:\Users\PC.DESKTOP-LHETLS5\Desktop\Chart\obj\Debug\Chart.csproj.CoreCompileInputs.cache
+C:\Users\PC.DESKTOP-LHETLS5\Desktop\Chart\obj\Debug\Chart.exe
+C:\Users\PC.DESKTOP-LHETLS5\Desktop\Chart\obj\Debug\Chart.pdb
+C:\Users\PC.DESKTOP-LHETLS5\Desktop\Chart\obj\Debug\Chart.BarChart.resources
+C:\Users\PC.DESKTOP-LHETLS5\Desktop\Chart\obj\Debug\Chart.PieChart.resources
+C:\Users\PC.DESKTOP-LHETLS5\Desktop\Chart Winforms\bin\Debug\Chart.exe.config
+C:\Users\PC.DESKTOP-LHETLS5\Desktop\Chart Winforms\bin\Debug\Chart.exe
+C:\Users\PC.DESKTOP-LHETLS5\Desktop\Chart Winforms\bin\Debug\Chart.pdb
+C:\Users\PC.DESKTOP-LHETLS5\Desktop\Chart Winforms\obj\Debug\Chart.csprojAssemblyReference.cache
+C:\Users\PC.DESKTOP-LHETLS5\Desktop\Chart Winforms\obj\Debug\Chart.BarChart.resources
+C:\Users\PC.DESKTOP-LHETLS5\Desktop\Chart Winforms\obj\Debug\Chart.PieChart.resources
+C:\Users\PC.DESKTOP-LHETLS5\Desktop\Chart Winforms\obj\Debug\Chart.Properties.Resources.resources
+C:\Users\PC.DESKTOP-LHETLS5\Desktop\Chart Winforms\obj\Debug\Chart.csproj.GenerateResource.cache
+C:\Users\PC.DESKTOP-LHETLS5\Desktop\Chart Winforms\obj\Debug\Chart.csproj.CoreCompileInputs.cache
+C:\Users\PC.DESKTOP-LHETLS5\Desktop\Chart Winforms\obj\Debug\Chart.exe
+C:\Users\PC.DESKTOP-LHETLS5\Desktop\Chart Winforms\obj\Debug\Chart.pdb
